@@ -191,7 +191,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 ![out on](https://github.com/user-attachments/assets/9a859f32-dbf3-4f34-89e8-4dd316720093)
 
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
-![circ diag](https://github.com/user-attachments/assets/0c0e6dce-55f0-44e0-81cf-3e5170ec8ff2)
+![Untitled design](https://github.com/user-attachments/assets/2b78cf65-6b41-4175-8ea1-f6ce870ec71c)
+
 
 
  
